@@ -32,7 +32,7 @@
         </a>
     </p>
     <details>
-    https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=natemoo-re)
+    https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=natemoo-re
     <summary></summary>
         <p align="center">
         <a href="https://github.com/ayawcksn" target="_blank">
