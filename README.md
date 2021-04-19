@@ -1,4 +1,9 @@
-
+<p align="center">
+        <a href="#ǝɔϟlʍo" target="_blank">
+            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=owl4ce&hide_border=true&title_color=373e4d&text_color=3b4252"/>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=owl4ce&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
+        </a>
+    </p>
 <p align="center">
 <a href="https://github.com/ayawcksn/ayawcksn/blob/main">
     <img width="100%" src="https://github.com/AyaWcksn/ayawcksn/blob/main/Zero_Two_Holding_Nodejs_8_the_Right_Way.png">
@@ -26,10 +31,10 @@
 
 <summary></summary>
     <p align="center">
-    <a href="#" target="_blank">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayawcksn&hide=html,&hide_border=true&title_color=63c5ea&text_color=fa74b2"/>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayawcksn&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2"/>
-    </a>
+        <a href="#ǝɔϟlʍo" target="_blank">
+            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=owl4ce&hide_border=true&title_color=373e4d&text_color=3b4252"/>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=owl4ce&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
+        </a>
     </p>
     <details>
     <summary></summary>
