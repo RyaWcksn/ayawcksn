@@ -6,7 +6,7 @@
 </p>
 
 
-<details>
+<details> Click Me!
 
 <h1 align="center">Hi 👋, I'm Pramudya Arya Wicaksana</h1>
 <h3 align="center">I'm fresh graduate Back-End Developer!</h3>
