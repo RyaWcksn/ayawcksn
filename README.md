@@ -9,6 +9,7 @@
         </a>
    <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
             <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=novatorem"/>
+    </a>
 </p>
 
 
