@@ -20,6 +20,8 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@yuuriya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ayaya_exe" height="30" width="40" /></a>
+<a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
+            <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=novatorem"/>
 </p>
 
 
