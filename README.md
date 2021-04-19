@@ -30,6 +30,8 @@
             <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=AyaWcksn&hide_border=true&title_color=373e4d&text_color=3b4252"/>
             <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=AyaWcksn&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
         </a>
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=natemoo-re">
     </p>
     <details>
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
