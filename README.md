@@ -15,7 +15,7 @@
 
 <details> Click Me!
 
-<h1 align="center">Hi 👋, I'm Pramudya Arya Wicaksana</h1>
+<h1 align="center">Hi 👋, I'm AyaWcksn</h1>
 <h3 align="center">I'm fresh graduate Back-End Developer!</h3>
 
 - 🌱 I’m currently learning **GatsbyJS, AdonisJS, VueJS, ReactJS, ExpressJS also curently learning Python and Golang**
