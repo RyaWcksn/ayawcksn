@@ -27,6 +27,7 @@ func GetBio() Bio {
 	}
 }
 ```
+
 <h2 align="center">You can contact me at : </h2>
 ---
 <p align="center">
