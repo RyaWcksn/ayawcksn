@@ -30,7 +30,6 @@ func GetBio() Bio {
 ```
 
 <h2 align="center">You can contact me at : </h2>
----
 <p align="center">
   <a href="https://github.com/AyaWcksn">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="30" widht="30">
@@ -49,9 +48,8 @@ func GetBio() Bio {
   </a>
 </p>
 <h2 align="center">My Tools, Stack, and Language that i use : </h2>
----
 # Language :
-<p align+"center">
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="30" widht="30">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30" widht="30">
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="30" widht="30">
