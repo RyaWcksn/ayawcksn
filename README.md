@@ -48,7 +48,7 @@ func GetBio() Bio {
   </a>
 </p>
 <h2 align="center">My Tools, Stack, and Language that i use : </h2>
-# Language :
+<h2> Languages </h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="30" widht="30">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30" widht="30">
@@ -67,7 +67,7 @@ func GetBio() Bio {
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="30" widht="30">
 </p>
 <h2> Tools : </h2>
-<h3> Languages </h3>
+<h3> Programming machines </h3>
 <p align="center" Laptops>
   My linux box running <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"> Arch linux as Primary os </br>
   And my daily laptop run <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" height="30" widht="30"> MacOs for get the work done
