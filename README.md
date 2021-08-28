@@ -37,7 +37,7 @@ func GetBio() Bio {
   <a href="https://www.linkedin.com/in/pramudya-arya-wicaksana-995607178/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" widht="30">
   </a>
-  <a href="pram.aryawcksn@protonmail.ch">
+  <a href="mailto:pram.aryawcksn@protonmail.ch">
     <img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" height="30" widht="30">
   </a>
   <a href="https://discordapp.com/users/770987360972308500">
