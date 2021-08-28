@@ -61,13 +61,13 @@ func GetBio() Bio {
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" widht="30">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" widht="30">
 </p>
-# Framework :
+<h2> Frameworks : </h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" widht="30">
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="30" widht="30">
 </p>
-# Tools :
-## Programming machine :
+<h2> Tools : </h2>
+<h3> Languages </h3>
 <p align="center" Laptops>
   My linux box running <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"> Arch linux as Primary os </br>
   And my daily laptop run <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" height="30" widht="30"> MacOs for get the work done
@@ -75,18 +75,18 @@ func GetBio() Bio {
 <p align="center" Phone>
   Sometimes i also do programming on my phone, just for like a scratchpad using <img src="https://id.wikipedia.org/wiki/Berkas:Termux_2.png" height="30" widht="30"> Termux as terminal emulator
 </p>
-## Code editor :
+<h3> Code editor : </h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="30" widht="30"> Neovim
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" height="30" widht="30"> Vim
   <img src="https://www.iconspng.com/uploads/emacs/emacs.png" height="30" widht="30"> GNU/Emacs
 </p>
-# Get to know
+<h2> Get to know </h2>
 <a href="#ǝɔϟlʍo" target="_blank">
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=AyaWcksn&hide_border=true&title_color=373e4d&text_color=3b4252"/>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=AyaWcksn&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
 </a>
-# Spotify
+<h2> Spotify </h2>
 <p align="center">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
     <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=novatorem"/>
