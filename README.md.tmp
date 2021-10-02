@@ -1,0 +1,56 @@
+<h1 align="center"> Pramudya Arya Wicaksana </h1>
+
+```golang
+
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- Quick bio:":                    "Game Developer mainly in Visual Novel, Otaku, Tech Enthusiast, Metalhead",
+		"- I'm currently working on":      "Senja Solution as Fullstact developer",
+		"- I'm currently learning":        "Golang, MongoDB, Typescript, Python, Ruby and Lua"
+		"- I'm looking to collaborate on": "Python, Golang and Docker related projects",
+		"- I'm looking for help with":     "Anything related to what I am currently learning ??",
+		"- Ask me about":                  "Python, NodeJs, Laravel, SQL, Web-Dev, Machine Learning, Penetration Testing, And DevOps",
+		"- How to reach me:":              "https://github.com/AyaWcksn"
+	}
+}
+```
+
+<img src="https://github.com/AyaWcksn/ayawcksn/blob/main/Zero_Two_Holding_Nodejs_8_the_Right_Way.png" align="center">
+
+<h2 align="center">You can contact me at : </h2>
+<p align="left">
+  <a href="https://github.com/AyaWcksn">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="30" widht="30">
+  </a>
+  <a href="https://www.linkedin.com/in/pramudya-arya-wicaksana-995607178/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" widht="30">
+  </a>
+  <a href="mailto:pram.aryawcksn@protonmail.ch">
+    <img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" height="30" widht="30">
+  </a>
+  <a href="https://discordapp.com/users/770987360972308500">
+    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" height="30" widht="30">
+  </a>
+  <a href="https://www.reddit.com/user/rya_wcksn">
+    <img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="30" widht="30">
+  </a>
+</p>
+<h2 align="center">Tools</h2>
+<div align="center">
+  <a href="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  <a href="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
+</div>

@@ -32,7 +32,7 @@ func GetBio() Bio {
 <img src="https://github.com/AyaWcksn/ayawcksn/blob/main/Zero_Two_Holding_Nodejs_8_the_Right_Way.png" align="center">
 
 <h2 align="center">You can contact me at : </h2>
-<p align="center">
+<p align="left">
   <a href="https://github.com/AyaWcksn">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="30" widht="30">
   </a>
@@ -49,40 +49,51 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="30" widht="30">
   </a>
 </p>
-<h2 align="center">My Tools, Stack, and Language that i use : </h2>
-<h2> Languages </h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" widht="30">
-</p>
-<h2> Frameworks : </h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" widht="30">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="30" widht="30">
-</p>
-<h2> Tools : </h2>
-<h3> Programming machines </h3>
-<p align="center" Laptops>
-  My linux box running <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"> Arch linux as Primary os </br>
-  And my daily laptop run <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" height="30" widht="30"> MacOs for get the work done
-</p>
-<p align="center" Phone>
-  Sometimes i also do programming on my phone, just for like a scratchpad using <img src="https://id.wikipedia.org/wiki/Berkas:Termux_2.png" height="30" widht="30"> Termux as terminal emulator
-</p>
-<h3> Code editor : </h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="30" widht="30"> Neovim
-  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" height="30" widht="30"> Vim
-  <img src="https://www.iconspng.com/uploads/emacs/emacs.png" height="30" widht="30"> GNU/Emacs
-</p>
+<h2 align="center">Tools</h2>
+<div align="center">
+  <a href="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  <a href="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
+</div>
+<h2 align="center">Language</h2>
+<div align="center">
+  <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <a href="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <a href="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <a href="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <a href="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <a href="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+</div>
+<h2 align="center">Database</h2>
+<div align="center">
+  <a href="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <a href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <a href="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <a href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</div>
+<h2 align="center">Frameworks</h2>
+<div align="center">
+  <a href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <a href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <a href="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
+  <a href="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <a href="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <a href="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <a href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <a href="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+</div>
+<h2 align="center">Operating System</h2>
+<h3 align="center">Mobile</h3>
+<div align="center">
+  <a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</div>
+<h3 align="center">Desktop</h3>
+<div align="center">
+  <a href="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <a href="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
+  <a href="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+</div>
 <h2> Get to know </h2>
 <a href="#ǝɔϟlʍo" target="_blank">
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=AyaWcksn&hide_border=true&title_color=373e4d&text_color=3b4252"/>
