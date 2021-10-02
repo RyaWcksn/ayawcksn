@@ -29,7 +29,7 @@ func GetBio() Bio {
 }
 ```
 
-<img src="https://github.com/AyaWcksn/ayawcksn/blob/main/Zero_Two_Holding_Nodejs_8_the_Right_Way.png" align="center">
+<img src="./mayu.png" align="center">
 
 <h2 align="left">You can contact me at : </h2>
 <p align="left">
