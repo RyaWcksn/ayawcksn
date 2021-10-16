@@ -29,7 +29,7 @@ func GetBio() Bio {
 }
 ```
 
-<img src="./mayu.png" align="center">
+
 
 <h2 align="left">You can contact me at : </h2>
 <p align="left">
