@@ -29,7 +29,7 @@ func GetBio() Bio {
 }
 ```
 
-
+<details align="center">
 
 <h2 align="left">You can contact me at : </h2>
 <p align="left">
@@ -41,9 +41,6 @@ func GetBio() Bio {
   </a>
   <a href="mailto:pram.aryawcksn@protonmail.ch">
     <img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" height="30" widht="30">
-  </a>
-  <a href="https://discordapp.com/users/770987360972308500">
-    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" height="30" widht="30">
   </a>
   <a href="https://www.reddit.com/user/rya_wcksn">
     <img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="30" widht="30">
@@ -111,3 +108,5 @@ func GetBio() Bio {
     <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&cover_image=true&theme=novatorem"/>
   </a>
 </p>
+
+</details>
