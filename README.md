@@ -21,8 +21,8 @@ func GetBio() Bio {
 		"- Quick bio:":                    "Game Developer mainly in Visual Novel, Otaku, Tech Enthusiast, Metalhead",
 		"- I'm currently working on":      "Senja Solution as Fullstact developer",
 		"- I'm currently learning":        "Golang, MongoDB, Typescript, Python, Ruby and Lua"
-		"- I'm looking to collaborate on": "Python, Golang and Docker related projects",
-		"- I'm looking for help with":     "Anything related to what I am currently learning ??",
+		"- I'm looking to collaborate on": "Python and Javascript related projects",
+		"- I'm looking for help with":     "Anything related to what I am currently learning Microservice, VMs, Services"
 		"- Ask me about":                  "Python, NodeJs, Laravel, SQL, Web-Dev, Machine Learning, Penetration Testing, And DevOps",
 		"- How to reach me:":              "https://github.com/AyaWcksn"
 	}
