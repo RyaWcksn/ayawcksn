@@ -31,6 +31,8 @@ func GetBio() Bio {
 
 <details align="center">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true"
+
 ### Hello, thanks for visiting my Github account! 👋
 
 About myself, my name is Pramudya Arya Wicaksana, i'm Fullstack Developer at Software house in Bandung city, Indonesia  
