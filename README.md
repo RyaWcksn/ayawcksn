@@ -34,7 +34,7 @@ func GetBio() Bio {
 
 ### Hello, thanks for visiting my Github account! 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true">  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=RyaWcksn&hide_border=true&title_color=373e4d&text_color=3b4252">  
 
 About myself, my name is Pramudya Arya Wicaksana, i'm Fullstack Developer at Software house in Bandung city, Indonesia  
 I'm currently dive into Golang and Microservices projects, also i'm self learning DevOps and Cloud Computing architecture  
