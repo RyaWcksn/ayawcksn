@@ -31,7 +31,7 @@ func GetBio() Bio {
 
 <details align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true"
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true">
 
 ### Hello, thanks for visiting my Github account! 👋
 
