@@ -34,6 +34,7 @@ func GetBio() Bio {
 
 ### Hello, thanks for visiting my Github account! 👋
 
+## Code
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
