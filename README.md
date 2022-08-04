@@ -30,6 +30,7 @@ func GetBio() Bio {
 ```
 
 <details align="center", style="background: white;">
+
 ### Hello, thanks for visiting my Github account! 👋
 
 About myself, my name is Pramudya Arya Wicaksana, i'm Golang developer and doing game development on my free time 💻  
@@ -37,4 +38,5 @@ I'm currently dive into Golang and Microservices projects, also self learning De
 GNU/Linux and Free Libre Open Source Apps enthusiast 🐧  
 I'm also a Computer Science university student starting at September 2022 🏫  
 Feel free to reach me on [Email](mailto:pram.aryawcksn@protonmail.ch "Arya's Email") and [Linkedin](https://www.linkedin.com/in/RyaWcksn/ "Arya's Linkedin")
+
 </details>
