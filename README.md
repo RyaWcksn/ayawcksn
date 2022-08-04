@@ -29,7 +29,7 @@ func GetBio() Bio {
 }
 ```
 
-<details align="center", style="background: white;">
+<details align="center">
 
 ### Hello, thanks for visiting my Github account! 👋
 
