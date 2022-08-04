@@ -29,7 +29,7 @@ func GetBio() Bio {
 }
 ```
 
-<details align="center">
+<details align="center", style="background: white;">
 
 <div class="details">
     <div class="info">
