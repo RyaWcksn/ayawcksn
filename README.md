@@ -8,7 +8,7 @@ import (
 	"fmt"
 )
 
-type Bio map[string]string
+type Bio map[string]interface{}
 
 func main() {
 	for k, v := range GetBio() {
@@ -18,13 +18,10 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- Quick bio                        ":  "Visual Novel Developer, Otaku, Tech Enthusiast, Metalhead",
-		"- I'm currently working on         ":  "Senja Solution as Fullstack developer",
-		"- I'm currently learning           ":  "Golang, MongoDB, Typescript, Python, Ruby and Lua"
-		"- I'm looking to collaborate on    ":  "Python and Javascript related projects",
-		"- I'm looking for help with        ":  "Anything related to what I am currently learning Microservice, VMs, Services"
-		"- Ask me about                     ":  "Python, NodeJs, Penetration Testing",
-		"- How to reach me                  ":  "https://github.com/RyaWcksn"
+		"- Quick bio                        ": "Visual Novel Developer, Otaku, Tech Enthusiast, Metalhead",
+		"- I'm currently working on         ": "Golang Microservices",
+		"- I'm currently learning           ": []string{"Machine Learning", "DevOps", "Cloud Computing Architecture"},
+		"- Languages                        ": []string{"Golang", "Python", "Typescript", "Javascript", "Lua"},
 	}
 }
 ```
