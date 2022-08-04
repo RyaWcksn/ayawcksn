@@ -54,3 +54,13 @@ func GetBio() Bio {
   <a href="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   <a href="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
 </div>
+
+    <div class="dev">
+### Dev Tools
+
+Personal Development Environtment := [![neovim](https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg)](https://github.com/RyaWcksn/Neko-Vim)  
+Language := ![Golang](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg), ![Lua](https://www.vectorlogo.zone/logos/lua/lua-ar21.svg), ![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg), ![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg), ![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)  
+Databases := ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg), ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg), ![Postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg), ![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg)  
+Tech := ![Google](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg), ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg), ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg), ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)
+    </div>
+
