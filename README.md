@@ -33,6 +33,8 @@ func GetBio() Bio {
 
 ### Hello, thanks for visiting my Github account! 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true">
+
 About myself, my name is Pramudya Arya Wicaksana, i'm Golang developer and doing game development on my free time 💻  
 I'm currently dive into Golang and Microservices projects, also self learning DevOps and Cloud Computing architecture ☁️  
 GNU/Linux and Free Libre Open Source Apps enthusiast 🐧  
