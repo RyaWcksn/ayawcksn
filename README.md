@@ -30,7 +30,7 @@ func GetBio() Bio {
 ```
 
 <details align="center", style="background: white;">
-
+<div class="container" style="background-color:white;">
 <div class="details">
     <div class="info">
 ### Hello, thanks for visiting my Github account! 👋
@@ -50,7 +50,5 @@ Databases := ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg), !
 Tech := ![Google](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg), ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg), ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg), ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)
     </div>
 </div>
-
-
-
+</div>
 </details>
