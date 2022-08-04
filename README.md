@@ -35,7 +35,8 @@ func GetBio() Bio {
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true">
 
-Pramudya Arya Wicaksana, Software engineer  
+Pramudya Arya Wicaksana  
+Software engineer  
 ------
 I'm currently self learning ML ,DevOps & Cloud Computing architecture ☁️  
 GNU/Linux and Free Libre Open Source Apps 🐧  
