@@ -1,42 +1,12 @@
-<h1 align="center"> Pramudya Arya Wicaksana </h1>
+<h1 align="center"> Willkommen! </h1>
 
-```golang
+Greetings! 👋  
+My name Pramudya Arya Wicaksana, Arya in short, i'm a Informatics Engineering student since 2022  
+self proclaimed Open Source evangelist 🧑🏻‍💻 and Cloud engineer ☁️  
 
-package main
+other than tech stuff i do like learn languages for make me become Polyglot E.g, Russian, Japanese, and Germany  
 
-import (
-	"fmt"
-)
+> I'd like to collaborating, just ping me! ✉️
 
-type Bio map[string]interface{}
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- Quick bio                        ": "Visual Novel Developer, Otaku, Tech Enthusiast, Metalhead",
-		"- I'm currently working on         ": "Golang Microservices",
-		"- I'm currently learning           ": []string{"Machine Learning", "DevOps", "Cloud Computing Architecture"},
-		"- Languages                        ": []string{"Golang", "Python", "Typescript", "Javascript", "Lua"},
-	}
-}
-```
-
-<details align="center">
-
-### Hello, thanks for visiting my Github account! 👋
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RyaWcksn&show_icons=true&hide_rank=true">
-
-Pramudya Arya Wicaksana  
-Software engineer  
-------
-I'm currently self learning ML ,DevOps & Cloud Computing architecture ☁️  
-GNU/Linux and Free Libre Open Source Apps 🐧  
-Feel free to reach me on [Email](mailto:pram.aryawcksn@protonmail.ch "Arya's Email") and [Linkedin](https://www.linkedin.com/in/RyaWcksn/ "Arya's Linkedin")
-
-</details>
+Let's connect!  
+![https://www.linkedin.com/in/ryawcksn/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![mailto:pram.aryawcksn@protonmail.ch](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ![@AR#7694](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![https://blog.yuuriya.tech](	https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)
