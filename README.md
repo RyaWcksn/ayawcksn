@@ -4,6 +4,7 @@ Greetings! 👋
 My name Pramudya Arya Wicaksana, i'm a Informatics Engineering student  
 self proclaimed __Open Source evangelist__ 🧑🏻‍💻 and __Cloud engineer__ ☁️  
 Fulltime Gunpla builder, Part timer 30MM builder 🤖  
+Hardcore WOTA but sometimes jamming to Metalehad music 🤘  
 
 things other than tech stuff, i also like learn languages so i can become a Polyglot E.g, __Russian__, __Japanese__, and __Germany__  
 
